@@ -1,0 +1,14 @@
+{
+	"category" : "Task-Manager-Core-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TaskTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

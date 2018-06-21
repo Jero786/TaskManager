@@ -1,0 +1,14 @@
+{
+	"category" : "Task-Manager-Presentation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TaskManagerHome",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

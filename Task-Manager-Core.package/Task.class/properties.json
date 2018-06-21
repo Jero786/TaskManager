@@ -1,0 +1,14 @@
+{
+	"category" : "Task-Manager-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"description" ],
+	"name" : "Task",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
