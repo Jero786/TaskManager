@@ -1,3 +1,3 @@
 setter
-setParentTask: aTask 
+parentTask: aTask 
 	parentTask := aTask.

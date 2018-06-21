@@ -1,3 +1,3 @@
 accessing
-getParentTask
+parentTask
 	^ parentTask.
